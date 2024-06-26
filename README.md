@@ -1,5 +1,5 @@
 # Product-Stocking-Recommendation
-This project shows methodologies to use recommendation to stock products at small convenience-store-like markets at workplaces.
+This project shows methodologies for recommending products to stock at small convenience-store-like markets at workplaces.
 The solution is an ensemble of 3 approaches:
   1) Recommendation based on data analysis
   2) Collaborative filtering
